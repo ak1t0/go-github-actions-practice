@@ -11,5 +11,5 @@ func main() {
 }
 
 func Dummy(v int) int {
-	return v * v
+	return v*v + 1
 }
